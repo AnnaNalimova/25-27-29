@@ -1,0 +1,15 @@
+/Users/annanalimova/Desktop/задача 25,27,29/29/bin/Debug/net6.0/29
+/Users/annanalimova/Desktop/задача 25,27,29/29/bin/Debug/net6.0/29.deps.json
+/Users/annanalimova/Desktop/задача 25,27,29/29/bin/Debug/net6.0/29.runtimeconfig.json
+/Users/annanalimova/Desktop/задача 25,27,29/29/bin/Debug/net6.0/29.dll
+/Users/annanalimova/Desktop/задача 25,27,29/29/bin/Debug/net6.0/29.pdb
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.csproj.AssemblyReference.cache
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.AssemblyInfoInputs.cache
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.AssemblyInfo.cs
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.csproj.CoreCompileInputs.cache
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.dll
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/refint/29.dll
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.pdb
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/29.genruntimeconfig.cache
+/Users/annanalimova/Desktop/задача 25,27,29/29/obj/Debug/net6.0/ref/29.dll
